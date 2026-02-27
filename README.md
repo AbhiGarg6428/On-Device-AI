@@ -24,6 +24,20 @@ This is a demo version of my offline AI assistant built using Python.
 
 🚧 Currently under development
 
+## Requirements:
+
+* Python
+* Ollama installed and running
+* Model: gemma:2b
+
+## Setup:
+
+1. Install Ollama from https://ollama.com
+2. Run command:
+   ollama run gemma:2b
+3. Then run the project
+
+
 ## Note:
 
 This is a demo version. Full version includes advanced features like voice control and app automation.
