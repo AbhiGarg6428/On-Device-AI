@@ -1,43 +1,24 @@
-# On-Device AI 🤖
+# GcoreX AI
 
-This is a demo version of my offline AI assistant built using Python.
+GcoreX AI is a local on-device artificial intelligence assistant designed to run powerful language models directly on your computer.
 
-## Features:
+## Features
+- Local LLM support (Ollama)
+- Voice input and output
+- Tool system (calculator, OCR, image generation)
+- Memory system
+- Terminal and browser chat
+- Desktop assistant UI
 
-* AI Chatbot
-* Open Chrome using command
-* Google search automation
+## Tech Stack
+- Python
+- Ollama
+- Mistral / Llama models
+- Gradio
+- CustomTkinter
 
-## Tech Used:
+## Goal
+Build a powerful offline AI assistant similar to Jarvis or ChatGPT that runs locally on personal devices.
 
-* Python
-* requests
-* pyttsx3
-
-## Tested On:
-
-* Windows 11
-* Python 3.x
-* Works on my local system (Ryzen 5 laptop)
-
-## Status:
-
-🚧 Currently under development
-
-## Requirements:
-
-* Python
-* Ollama installed and running
-* Model: gemma:2b
-
-## Setup:
-
-1. Install Ollama from https://ollama.com
-2. Run command:
-   ollama run gemma:2b
-3. Then run the project
-
-
-## Note:
-
-This is a demo version. Full version includes advanced features like voice control and app automation.
+## Status
+🚧 Under development
