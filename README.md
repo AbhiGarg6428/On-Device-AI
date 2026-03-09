@@ -22,3 +22,7 @@ Build a powerful offline AI assistant similar to Jarvis or ChatGPT that runs loc
 
 ## Status
 🚧 Under development
+
+© 2026 Abhishek Garg
+
+GcoreX AI is an independent AI project created by Abhishek Garg.
