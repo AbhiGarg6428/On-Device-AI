@@ -18,7 +18,7 @@ GcoreX AI is a local on-device artificial intelligence assistant designed to run
 - CustomTkinter
 
 ## Goal
-Build a powerful offline AI assistant similar to Jarvis or ChatGPT that runs locally on personal devices.
+Build a powerful offline AI assistant similar to ChatGPT that runs locally on personal devices.
 
 ## Status
 🚧 Under development
