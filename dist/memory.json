@@ -1,0 +1,12 @@
+{
+  "chat_history": [
+    {
+      "user": "open chrome",
+      "gcorex": "Tool 'open_app' not found."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    }
+  ]
+}

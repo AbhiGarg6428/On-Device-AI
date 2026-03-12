@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "trigger": "100 words",
+      "action": "rewrite it to approximately 100 words (currently 37); expand with more detail, examples, and explanation",
+      "occurrences": 1,
+      "last_seen": "2026-03-11T19:18:16"
+    },
+    {
+      "trigger": "200 words",
+      "action": "increase generation length",
+      "occurrences": 0,
+      "last_seen": ""
+    },
+    {
+      "trigger": "500 words",
+      "action": "increase generation length",
+      "occurrences": 0,
+      "last_seen": ""
+    },
+    {
+      "trigger": "summarize",
+      "action": "shorten the response",
+      "occurrences": 0,
+      "last_seen": ""
+    },
+    {
+      "trigger": "summary",
+      "action": "shorten the response",
+      "occurrences": 0,
+      "last_seen": ""
+    },
+    {
+      "trigger": "list",
+      "action": "format as a bulleted list",
+      "occurrences": 0,
+      "last_seen": ""
+    },
+    {
+      "trigger": "bullet",
+      "action": "format as a bulleted list",
+      "occurrences": 0,
+      "last_seen": ""
+    }
+  ]
+}

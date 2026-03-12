@@ -1,0 +1,50 @@
+{
+  "entries": [
+    {
+      "text": "Hello! It's nice to meet you. I'm glad to be of service. If you have any questions or need assistance with anything, feel free to ask me. I'll do my best to help you with what you need. Is there something specific you would like to know or discuss today?",
+      "vector": {
+        "hello": 1,
+        "it": 1,
+        "s": 1,
+        "nice": 1,
+        "to": 5,
+        "meet": 1,
+        "you": 5,
+        "i": 2,
+        "m": 1,
+        "glad": 1,
+        "be": 1,
+        "of": 1,
+        "service": 1,
+        "if": 1,
+        "have": 1,
+        "any": 1,
+        "questions": 1,
+        "or": 2,
+        "need": 2,
+        "assistance": 1,
+        "with": 2,
+        "anything": 1,
+        "feel": 1,
+        "free": 1,
+        "ask": 1,
+        "me": 1,
+        "ll": 1,
+        "do": 1,
+        "my": 1,
+        "best": 1,
+        "help": 1,
+        "what": 1,
+        "is": 1,
+        "there": 1,
+        "something": 1,
+        "specific": 1,
+        "would": 1,
+        "like": 1,
+        "know": 1,
+        "discuss": 1,
+        "today": 1
+      }
+    }
+  ]
+}

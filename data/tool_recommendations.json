@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    {
+      "task_keyword": "hello",
+      "preferred_tool": "play",
+      "success_rate": 1.0,
+      "usage_count": 1
+    },
+    {
+      "task_keyword": "good",
+      "preferred_tool": "open_app",
+      "success_rate": 1.0,
+      "usage_count": 1
+    },
+    {
+      "task_keyword": "ind",
+      "preferred_tool": "search",
+      "success_rate": 1.0,
+      "usage_count": 1
+    },
+    {
+      "task_keyword": "opn",
+      "preferred_tool": "open_app",
+      "success_rate": 1.0,
+      "usage_count": 1
+    }
+  ]
+}

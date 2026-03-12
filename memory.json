@@ -1,0 +1,84 @@
+{
+  "chat_history": [
+    {
+      "user": "what is 47752342+4223",
+      "gcorex": "The result is 47756565"
+    },
+    {
+      "user": "good",
+      "gcorex": "I'm glad to be of help! If you have any other questions or need assistance, feel free to ask."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "open chrome and search epic",
+      "gcorex": "Opening Chrome and searching epic."
+    },
+    {
+      "user": "tell me about car in 100 words",
+      "gcorex": "A car is a complex and versatile wheeled vehicle primarily designed for land transportation. It consists of essential components like an engine, transmission system, brakes, steering mechanism, suspension, and tires. The internal combustion engine powers most cars, converting fuel into mechanical energy to drive the wheels. Cars can be categorized based on their design, functionality, and number of passengers they carry. For instance, sedans are four-door passenger vehicles with a trunk, while SUVs (Sport Utility Vehicles) are larger vehicles offering more space and ground clearance. Electric cars have gained popularity as eco-friendly alternatives to traditional internal combustion engine vehicles, using rechargeable batteries instead of fossil fuels. In addition, self-driving or autonomous cars are an emerging technology that promises to revolutionize the automotive industry by reducing human error"
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello there! How can I help you today?"
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello again! If you have any questions or need assistance, feel free to ask."
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello again! Always a pleasure to chat with you. Is there something specific you'd like to talk about today?"
+    },
+    {
+      "user": "what is pluto",
+      "gcorex": "Pluto is a former planet that was reclassified as a \"dwarf planet\" by the International Astronomical Union (IAU) in 2006. It is the ninth-largest known celestial body orbiting the Sun, and it's located in"
+    },
+    {
+      "user": "how big is it",
+      "gcorex": "Pluto has a diameter of approximately 1,473 miles (2,370 kilometers). This makes it smaller than the seven planets in our solar system. For comparison, Earth has a diameter of about 7,918 miles (12,756 kilom"
+    },
+    {
+      "user": "what is earth",
+      "gcorex": "Earth is the third planet from the Sun in our solar system and the only known celestial body to support life as we know it. It's the fifth largest planet by diameter and the seventh largest by volume in the solar system. The planet has a diameter of approximately 7,91"
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello! I'm here to help you with any questions or tasks you have. How can I assist you today?"
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello there! I'm glad to be of service. If you have any questions or need assistance, feel free to ask me anything. I'll do my best to help you with what you need. Is there something specific you would like to know today?"
+    },
+    {
+      "user": "hello bro",
+      "gcorex": "Hello! It's nice to meet you. How can I assist you today? If you have any questions or need help with something, don't hesitate to ask me anything. I'm here to help. Is there something specific you would like to know or discuss?"
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello! It's nice to meet you. How can I assist you today? If you have any questions or need help with something, don't hesitate to ask me anything. I'm here to help. Is there something specific you would like to know or discuss?"
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello! It's nice to meet you. I'm glad to be of service. If you have any questions or need assistance with anything, feel free to ask me. I'll do my best to help you with what you need. Is there something specific you would like to know or discuss today?"
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "hello",
+      "gcorex": "action\":\"chat\",\"response\":\"Ollama is offline. Start Ollama and retry."
+    },
+    {
+      "user": "hello",
+      "gcorex": "Hello! It's nice to meet you. I'm glad to be of service. If you have any questions or need assistance with anything, feel free to ask me. I'll do my best to help you with what you need. Is there something specific you would like to know or discuss today?"
+    }
+  ]
+}

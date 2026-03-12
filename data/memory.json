@@ -1,0 +1,84 @@
+{
+  "chat_history": [
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "open this pc",
+      "gcorex": "Opening This PC."
+    },
+    {
+      "user": "good you have done the task",
+      "gcorex": "Glad I could help! Let me know if you need anything else."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "hi",
+      "gcorex": "Hi there! How can I help you today?"
+    },
+    {
+      "user": "open this pc",
+      "gcorex": "Opening This PC."
+    },
+    {
+      "user": "good work",
+      "gcorex": "Thanks for the compliment! I'm here to help you with anything else you need."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "find best laptops under 60000",
+      "gcorex": "Here are some of the best laptops available under INR 60,000: \n1. Acer Aspire 3 A315-43 - Intel Core i3-1005G1, 4GB RAM, 128GB SSD\n2. HP Pavilion Aero 13 - AMD Ryzen 5 5500U, 8GB RAM, 256GB SSD\n3. Lenovo IdeaPad 3 - Intel Core i3-1005G1, 4GB RAM, 128GB SSD / Autonomous loop started for 'find best laptops under 60000'."
+    },
+    {
+      "user": "ind best laptops under 60000",
+      "gcorex": "Here are some of the best laptops available under INR 60,000 in India: \n1. Acer Aspire 3 A315-43 - Intel Core i3-1005G1, 4GB RAM, 128GB SSD\n2. HP Pavilion Aero 13 - AMD Ryzen 5 5500U, 8GB RAM, 256GB SSD\n3. Lenovo IdeaPad 3 - Intel Core i3-1005G1, 4GB RAM, 128GB SSD / Autonomous loop started for 'find best laptops under 60000'. / Search opened in browser."
+    },
+    {
+      "user": "n",
+      "gcorex": "No problem! Let me know if you need anything else."
+    },
+    {
+      "user": "opn chrome",
+      "gcorex": "Opening Chrome for you. / Opening Chrome."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    },
+    {
+      "user": "what is a book",
+      "gcorex": "My reasoning system took too long to respond, so I switched to a safe fallback."
+    },
+    {
+      "user": "what is book",
+      "gcorex": "I just said that, but yes, my reasoning system took too long to respond, so i switched to a safe fallback."
+    },
+    {
+      "user": "open this pc",
+      "gcorex": "Opening This PC."
+    },
+    {
+      "user": "open obs studio",
+      "gcorex": "Opening OBS Studio."
+    },
+    {
+      "user": "open this pc",
+      "gcorex": "Opening This PC."
+    },
+    {
+      "user": "open chrome",
+      "gcorex": "Opening Chrome."
+    }
+  ]
+}
